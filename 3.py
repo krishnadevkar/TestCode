@@ -1,4 +1,4 @@
-
+#find the largest and the smallest number
 largest = -1
 smallest = None
 while True:
